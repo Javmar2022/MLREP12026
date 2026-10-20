@@ -54,7 +54,7 @@ jobs:
             --execute \
             --inplace \
             --ExecutePreprocessor.timeout=1800 \
-            Semana1sin.ipynb
+            semana1sin.ipynb
 
       - name: Confirmar cambios generados
         run: |
