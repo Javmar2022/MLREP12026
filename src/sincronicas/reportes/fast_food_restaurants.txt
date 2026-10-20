@@ -1,0 +1,66 @@
+REPORTE DEL DATAFRAME
+============================================================
+Filas: 998
+Columnas: 23
+Duplicados: 0
+
+Columnas y tipos:
+- Year: int64
+- Set: object
+- Problem Number: int64
+- URL: object
+- Problem Statement: object
+- Exact Answer: int64
+- Solution 1: object
+- Solution 2: object
+- Solution 3: object
+- Solution 4: object
+- Solution 5: object
+- Solution 6: object
+- Solution 7: object
+- Solution 8: object
+- Solution 9: object
+- Solution 10: object
+- Solution 11: object
+- Solution 12: object
+- Solution 13: object
+- LLM Solution(gpt-4o): object
+- Exact Answer (gpt-4o): object
+- annotation: object
+- sampled responses: object
+
+Valores nulos por columna:
+- Year: 0
+- Set: 248
+- Problem Number: 0
+- URL: 0
+- Problem Statement: 0
+- Exact Answer: 0
+- Solution 1: 128
+- Solution 2: 184
+- Solution 3: 343
+- Solution 4: 530
+- Solution 5: 692
+- Solution 6: 809
+- Solution 7: 880
+- Solution 8: 917
+- Solution 9: 954
+- Solution 10: 976
+- Solution 11: 986
+- Solution 12: 990
+- Solution 13: 994
+- LLM Solution(gpt-4o): 0
+- Exact Answer (gpt-4o): 41
+- annotation: 0
+- sampled responses: 0
+
+Estadísticas numéricas:
+           Year  Problem Number  Exact Answer
+count   998.000         998.000       998.000
+mean   2006.751           8.002       315.519
+std      11.331           4.323       282.908
+min    1983.000           1.000         0.000
+25%    2000.000           4.000        80.000
+50%    2008.000           8.000       210.500
+75%    2016.000          12.000       504.750
+max    2024.000          15.000       997.000
